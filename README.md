@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+
+- Other SPA(其他单页应用)：
+  <br/>vue1.x.js：https://github.com/allan2coder/Vue-SPA
+  <br/>React.js 2.x: https://github.com/allan2coder/React-SPA-Tutorial
+  <br/>angularjs 2.x: https://github.com/allan2coder/angular2-SPA
+
 ## Features
 
 - 采用ES6语法，组件化、模块化开发
