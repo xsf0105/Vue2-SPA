@@ -6,7 +6,9 @@ import VueRouter from 'vue-router'
 Vue.config.debug = true
 Vue.use(VueRouter)
 
-const First = { template: '<div><h2>我是第 1 个子页面</h2></div>' }
+// const First = { template: '<div><h2>我是第 1 个子页面</h2></div>' }
+
+import First from './pages/index.vue'
 import secondcomponent from './components/secondcomponent.vue'
 
 const router = new VueRouter({

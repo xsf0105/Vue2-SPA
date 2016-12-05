@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank">Fuck u</a></li>
+      <li><a href="https://vuejs.org" target="_blank">My component</a></li>
     </ul>
   </div>
 </template>

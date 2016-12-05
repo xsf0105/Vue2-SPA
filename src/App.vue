@@ -2,15 +2,12 @@
   <div id="app">
     <img src="./assets/logo.png">
     <hello></hello>
-
-    <ul>
-      <li><router-link to="/index">点我跳转到第一页</router-link></li>
-      <li><router-link to="/second">点我跳转到第二页</router-link></li>
-    </ul>
+    <p>
+      <router-link to="/index">点我跳转到第一页</router-link>
+      <router-link to="/second">点我跳转到第二页</router-link>
+    </p>
     <router-view class="view"></router-view>
-
   </div>
-
 </template>
 
 <script>
