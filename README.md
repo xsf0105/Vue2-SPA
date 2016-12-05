@@ -3,9 +3,9 @@
 > A Vue.js project 
 
 - Other SPA(其他单页应用)：
-  -[vue1.x](https://github.com/allan2coder/Vue-SPA)
-  -[React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
-  -[angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
+- [vue1.x](https://github.com/allan2coder/Vue-SPA)
+- [React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
+- [angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
 
 ## Features
 
