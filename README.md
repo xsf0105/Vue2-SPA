@@ -5,7 +5,7 @@
 ## Features
 
 - 采用ES6语法，组件化、模块化开发
-- 严格的语法检测 :checkered_flag:
+- :checkered_flag: 严格的语法检测
 - 前端控制路由
 - 自动打开、刷新浏览器
 
