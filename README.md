@@ -7,6 +7,9 @@
 - [React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
 - [angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
 
+## screenShot
+![image](https://github.com/allan2coder/Vue2-SPA/blob/master/src/images/1.png)
+
 ## Features
 
 - 采用ES6语法，组件化、模块化开发
