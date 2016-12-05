@@ -2,17 +2,15 @@
 
 > A Vue.js project 
 
-
 - Other SPA(其他单页应用)：
-  <br/>[不带语法检测vue2.x](https://github.com/allan2coder/Vue2-SPA2)
-  <br/>[vue1.x](https://github.com/allan2coder/Vue-SPA)
-  <br/>[React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
-  <br/>[angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
+  -[vue1.x](https://github.com/allan2coder/Vue-SPA)
+  -[React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
+  -[angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
 
 ## Features
 
 - 采用ES6语法，组件化、模块化开发
-- :checkered_flag: :rotating_light: 严格的语法检测
+- :checkered_flag: :rotating_light: 严格的语法检测 [vue2(不带语法检测的版本)](https://github.com/allan2coder/Vue2-SPA2)
 - 前端控制路由
 - 自动打开、刷新浏览器
 
