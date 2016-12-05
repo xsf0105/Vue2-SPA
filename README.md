@@ -1,12 +1,13 @@
 # Vue2-SPA
 
-> A Vue.js project
+> A Vue.js project 
 
 
 - Other SPA(其他单页应用)：
-  <br/>vue1.x.js：https://github.com/allan2coder/Vue-SPA
-  <br/>React.js 2.x: https://github.com/allan2coder/React-SPA-Tutorial
-  <br/>angularjs 2.x: https://github.com/allan2coder/angular2-SPA
+  <br/>[不带语法检测vue2.x](https://github.com/allan2coder/Vue2-SPA2)
+  <br/>[vue1.x](https://github.com/allan2coder/Vue-SPA)
+  <br/>[React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
+  <br/>[angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
 
 ## Features
 
