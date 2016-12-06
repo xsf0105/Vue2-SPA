@@ -4,7 +4,7 @@
 
 ### Other SPA(其他单页)
 - [vue1.x](https://github.com/allan2coder/Vue-SPA)
-- [React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial)
+- [React.js 2.x](https://github.com/allan2coder/React-SPA-Tutorial) :fire: :fire: :fire:
 - [angularjs 2.x](https://github.com/allan2coder/angular2-SPA)
 
 ## screenShot
